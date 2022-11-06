@@ -1,0 +1,26 @@
+.cart-container {
+  background-color: cadetblue;
+}
+
+.cart {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  background-color: whitesmoke;
+  width: 90vw;
+  padding: 30px;
+  margin: 10px auto;
+}
+h1 {
+  padding: 20px;
+  margin-right: 200px;
+}
+p {
+  margin-right: 500px;
+}
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10%;
+  margin: 20px auto;
+}

@@ -1,0 +1,38 @@
+.navbar-container {
+  max-width: 1100px;
+  background-color: antiquewhite;
+  margin: 0 auto;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  /* height: 90px; */
+}
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin: 40px; */
+  list-style: none;
+}
+ul li {
+  margin: 20px 30px;
+  margin-left: 50px;
+  padding: 10px;
+  background-color: aqua;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+
+h2 {
+  padding: 0;
+  margin: 0;
+}
+span {
+  margin-right: 10px;
+}
